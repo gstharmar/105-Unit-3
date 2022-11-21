@@ -9,4 +9,4 @@ This repository contains a python notebook highlighting the process of compiling
 
 This repository also contains a data visualization of Adult obesity rates in North Carolina from a sample of twenty counties. This visualization was generated using Datawrapper. This visualization compares values through exhibiting different rates and serves as an informative display of the distribution of adult obesity rates in twenty of North Carolina's counties.
 
-! [Data](VAW37-adult-obesity-rates-in-north-carolina-by-county.png)
+![Data](VAW37-adult-obesity-rates-in-north-carolina-by-county.png)
