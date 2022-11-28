@@ -1,9 +1,9 @@
 # Adult Obesity Rates in North Carolina
-This is a repository containing data from a county dataset of health benchmarks across the country between 2014 and 2015. This repository contains subsetted data that assesses Adult obesity rates in North Carolina by county in 2015.
+This is a repository containing data from a [county dataset of health benchmarks across the country between 2014 and 2015](https://github.com/gstharmar/105-Unit-3/blob/main/CountyHealthData_2014-2015.csv). This repository contains subsetted data that assesses Adult obesity rates in North Carolina by county in 2015.
 
 This repository includes the following files:
 - This README.md file
-- The original county health dataset
+- [The original county health dataset](https://github.com/gstharmar/105-Unit-3/blob/main/CountyHealthData_2014-2015.csv)
 - Procedural documentation of subsetting the data
 - [The final product subset of the data](https://github.com/gstharmar/105-Unit-3/blob/main/AdultObesityDataSubset(Excel).xlsx)
 - [A data visualization of the subset](AdultObesityDataVisual.png)
@@ -21,4 +21,4 @@ This data visualization depicts variances in adult obesity rates in North Caroli
 ![Data](AdultObesityDataVisual.png)
 
 ## Acknowledgments
-Thank you, Professor Gotzler for providing the county health dataset, assigning this project, and invigorating our understanding of the world of coding and data.
+Thank you, Professor Gotzler for providing the [county health dataset](https://github.com/gstharmar/105-Unit-3/blob/main/CountyHealthData_2014-2015.csv), assigning this project, and invigorating our understanding of the world of coding and data.
